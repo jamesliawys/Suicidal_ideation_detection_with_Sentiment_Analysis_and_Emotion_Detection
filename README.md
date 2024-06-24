@@ -1,1 +1,1 @@
-Project designed to predict suicidal behaviour in Reddit data by utilising Sentiment Analysis and Emotion Detection apprpoach along with machine learning models.
+Project designed to predict suicidal behaviour in Reddit data by utilising Sentiment Analysis and Emotion Detection apprpoach along with machine learning models which includes Support Vector MAachine, Random Forest, K-nearest neighbour model and XGBoost. 
